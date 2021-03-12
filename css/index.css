@@ -60,3 +60,42 @@ a:hover{
     transform: scale(1.08);
 }
 
+#button2 {
+    display: inline-block;
+    background-color: #80CED7;
+    padding:18px 20px;
+    box-shadow: 5px 5px 0px #003249;
+    margin-right: 0px;
+    transition: transform 150ms linear;
+    margin-left: 155px;
+    
+}
+
+#button2:hover{
+    background-color: #9AD1D4;
+    transform: scale(1.08);
+}
+
+#button3 {
+    display: inline-block;
+    background-color: #80CED7;
+    box-shadow: 5px 5px 0px #003249;
+    margin-right: 0px;
+    transition: transform 150ms linear;
+    margin-left: 112px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-top: 18px;
+    padding-bottom:18px ;
+    margin-bottom: 399px;
+    
+}
+
+#button3:hover{
+    background-color: #9AD1D4;
+    transform: scale(1.08);
+}
+
+#menu{
+    background-color: black;
+}
