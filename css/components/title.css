@@ -1,23 +1,8 @@
 #nome{
-    display: inline-block;
-    background-color: #3A4042;
-    padding-top: 72px;
-    padding-bottom: 72px;
-    padding-left: 48px;
-    padding-right: 50px;
-    box-shadow: 10px 10px 0px #003249;
-    margin-right: 0px;
-    color: #80CED7;
-
-    font-family: "press start 2P";
-    font-style: normal;
-    font-weight: normal;
     font-size: 40px;
-    line-height: 40px;
-
-    margin-top: 116px;
-    margin-left: 91px;
-    margin-bottom: 38px;
-
+    font-family: "press start 2P", sans-serif;
     text-shadow: 4px 4px 0px #003249;
+    color: #F25A70;
+    text-align: inherit;
+    margin-bottom: 28px;
 }
