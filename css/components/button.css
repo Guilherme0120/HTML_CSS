@@ -5,6 +5,10 @@
     box-shadow: 5px 5px 0px #003249;
     margin-right: 0px;
     transition: transform 150ms linear;
+    font-size: 20px;
+    color:#fff;
+    text-decoration: none;
+    font-family: "fira code", Arial, Helvetica, sans-serif;
 }
 
 .button:hover{
