@@ -1,0 +1,22 @@
+.action{ 
+    display: inline-flex;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-family: "fira code", Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.action::before{
+    content: "";
+    background-color: #80CED7;
+    height: 10px;
+    width: 10px;
+    margin-right: 10px; 
+}
+
+.action:hover{
+    color:#003249;
+}
